@@ -2,7 +2,7 @@
 <h3 align="center">A full stack web dev and iOS Dev</h3>
 
 
-- Resume and all of my projects are available at [https://matthewautjoa.tech](matthewautjoa.tech)
+- Resume and all of my projects are available at [https://matthewautjoa.tech](https://matthewautjoa.tech)
 
 - Currently located at [Toronto , Canada](Toronto , Canada)
 
