@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Matthew Tjoa</h1>
 <h3 align="center">A full stack web dev and iOS Dev</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mat0123" alt="mat0123" /></a> </p>
 
 - Resume and all of my projects are available at [matthewautjoa.tech](matthewautjoa.tech)
 
