@@ -4,7 +4,7 @@
 
 - Resume and all of my projects are available at [https://matthewautjoa.tech](https://matthewautjoa.tech)
 
-- Currently located at [Toronto , Canada](Toronto , Canada)
+- Currently located at Toronto , Canada
 
 - How to reach me **matthewaureliustjoa@gmail.com**
 
