@@ -5,6 +5,7 @@
 - Resume and all of my projects are available at [https://matthewautjoa.tech](https://matthewautjoa.tech)
 
 - Currently located at Toronto , Canada
+- I worked partly for Helios Tech Solution
 
 - How to reach me **matthewaureliustjoa@gmail.com**
 
